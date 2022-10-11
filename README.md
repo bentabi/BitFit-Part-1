@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/bentabi/BitFit-Part-1/blob/5983ca115ad94ae1f5a20d3cf56f3bce70fc22f3/walkthrough.gif' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
